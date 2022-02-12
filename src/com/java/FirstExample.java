@@ -6,6 +6,9 @@ public class FirstExample {
 		// create a main method write main then ctrl + space tab
 		System.out.println("Hello");
 		System.out.println("Test");
+		System.out.println("git add .");
+		System.out.println("git status");
+		System.out.println("git commit -m");
 		
 		
 
