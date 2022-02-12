@@ -9,6 +9,7 @@ public class FirstExample {
 		System.out.println("git add .");
 		System.out.println("git status");
 		System.out.println("git commit -m");
+		System.out.println("changes2");
 		
 		
 
